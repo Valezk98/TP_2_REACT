@@ -20,6 +20,8 @@ ___________________
 
 # [GLITCH_CORE]
 
+https://glitchcoresite.netlify.app/
+
 ## Qué es
 Una SPA web sobre videojuegos, landing con hero, catalogo, secciones de reseñas, estadisticas del sitio, suscripción a newsletter, etc
 
